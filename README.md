@@ -1,2 +1,2 @@
-# Flight-price-predicition-model
+# Flight-price-prediction-model
 This is my first data analysis project familiarising with Jupyter Notebooks, pandas, scikit-learn...
